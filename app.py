@@ -1,16 +1,10 @@
 import discord
 from discord.ext import commands
-import os
-from dotenv import load_dotenv
 
 from PIL import Image, ImageDraw, ImageFont, ImageFilter
 import re
 
-# .env 파일에서 환경 변수 로드
-load_dotenv()
-
-# TOKEN 설정
-TOKEN_4 = os.getenv('DISCORD_TOKEN_4')
+TOKEN = f'당신의 토큰'
 
 # 봇 로딩
 class Client(commands.Bot):
@@ -128,4 +122,4 @@ async def 만들기(interaction: discord.Interaction, message: str):
         # Interaction 응답에 오류 메시지 전달
         await interaction.response.send_message(f"오류 발생: {e}", ephemeral=True)
 
-client.run(TOKEN_4)
+client.run(TOKEN)
