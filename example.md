@@ -13,6 +13,18 @@
 `<y>대  곡  행 <y/><g>3전 역 <g/><r>도착<r/>\n<y>대  곡  행 <y/><g>8전 역 <g/><r>출발<r/>\n<y>일  산  행<y/><g>12전 역 <g/><r>도착<r/>`
 ![image](https://github.com/user-attachments/assets/39a34736-244a-43df-9701-f02fee6b5a6f)
 
+`<g>이번열차 : <g/><o>당역 통과<o/>\n<r>다음열차를 이용하여<r/>\n<g>주시기 바랍니다<g/>`
+![image](https://github.com/user-attachments/assets/56cc5468-b0a2-4f37-9372-7623aacf17d4)
+
+`<o> 문     양  <o/><g>행 열차가 <g/><o>출발<o/>\n<g>하니 <g/><o>다음열차<o/><g>를 이용       <g/>\n<g>하여 주시기 바랍니다.      <g/>`
+![image](https://github.com/user-attachments/assets/79856be7-d389-43a0-bc97-08cdef040455)
+
+`<y>1 인천행     전 역 도착<y/>\n<g>1 신창행    3역 전 출발<g/>\n<g>1 인천행    5역 전 도착<g/>`
+![image](https://github.com/user-attachments/assets/0b426026-8307-474d-8f6a-a553214af07b)
+
+`<y>2 광운대역  노량진 출발<y/>\n<g>2 소요산행  노량진 접근<g/>\n<g>2 청량리행    신길 도착<g/>`
+![image](https://github.com/user-attachments/assets/cbee3e16-65ef-483b-bafa-c54bd5e057e7)
+
 ![image](https://github.com/user-attachments/assets/0841e5b7-b6f5-4c63-8f79-60fa8ee90521)
 
 ![image](https://github.com/user-attachments/assets/1bc93625-0075-4e0e-aa64-e9101cc28791)
