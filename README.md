@@ -36,10 +36,10 @@ Pillow는 그런 PIL의 포크로, 사실상 PIL의 후속 라이브러리이다
 안심하세요. 눈누 사이트에 연결된 공식 다운로드 페이지입니다.
 
 ## 코드 첨부
-[아무튼 코드](https://github.com/Rung2ne/electric-signboard/blob/main/app.py)
+[아무튼 코드](https://github.com/Rung2ne/Discord-Korail-electric-signboard-maker/blob/main/app.py)
 
 ## 예시 문구 및 이미지
-[예시 문구 및 이미지 보러가기](https://github.com/Rung2ne/electric-signboard/blob/main/example.md)
+[예시 문구 및 이미지 보러가기](https://github.com/Rung2ne/Discord-Korail-electric-signboard-maker/blob/main/example.md)
 
 ## 사용 방법
 1. 원하는 폰트를 다운하고 코드에 폰트 경로를 연결해준다.
