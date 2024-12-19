@@ -38,6 +38,16 @@ Pillow는 그런 PIL의 포크로, 사실상 PIL의 후속 라이브러리이다
 ## 코드 첨부
 [아무튼 코드](https://github.com/Rung2ne/Discord-Korail-electric-signboard-maker/blob/main/app.py)
 
+## 메시지 양식
+`<r>빨간색<r/>`
+`<g>초록색<g/>`
+`<y>노란색<y/>`
+`<o>주황색<o/>`
+
+위처럼 두 HTML 태그 사이에 원하는 글자를 넣으시면 됩니다.
+
+한 줄에 15자, 총 4줄이라 60자까지 출력할 수 있습니다.
+
 ## 예시 문구 및 이미지
 [예시 문구 및 이미지 보러가기](https://github.com/Rung2ne/Discord-Korail-electric-signboard-maker/blob/main/example.md)
 
@@ -45,4 +55,4 @@ Pillow는 그런 PIL의 포크로, 사실상 PIL의 후속 라이브러리이다
 1. 원하는 폰트를 다운하고 코드에 폰트 경로를 연결해준다.
 2. 토큰을 자신의 토큰으로 바꾼다.
 3. `pip install pillow`로 PIL 라이브러리를 설치한다.
-4. 코드를 실행하고 `/만들기` 명령어로 양식에 맞게 문구를 넣는다. [예시 문구 및 이미지](https://github.com/Rung2ne/electric-signboard/blob/main/example.md)를 참고하세요.
+4. 코드를 실행하고 `/만들기` 명령어로 양식에 맞게 문구를 넣는다. [예시 문구 및 이미지](https://github.com/Rung2ne/Discord-Korail-electric-signboard-maker/blob/main/example.md)를 참고하세요.
