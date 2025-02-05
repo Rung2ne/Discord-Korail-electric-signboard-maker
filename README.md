@@ -12,12 +12,12 @@
 - PIL
 - Python Imaging Library
 
-파이썬에서 이미지를 다루기 위한 도구 중 하나이다.
-이미지를 읽고 쓰는 것은 물론, 크기 조절 및 회전, 필터 적용 등 다양한 것을 할 수 있다.
-PIL은 이미지를 **생성**하는 것 또한 가능하다.
+파이썬에서 이미지를 다루기 위한 도구 중 하나입니다.
+이미지를 읽고 쓰는 것은 물론, 크기 조절 및 회전, 필터 적용 등 다양한 것을 할 수 있습니다.
+PIL은 이미지를 **생성**하는 것 또한 가능합니다.
 
-PIL은 버려진 지 오래 된 라이브러리다.
-Pillow는 그런 PIL의 포크로, 사실상 PIL의 후속 라이브러리이다.
+PIL은 버려진 지 오래 된 라이브러리입니다.
+Pillow는 그런 PIL의 포크로, 사실상 PIL의 후속 라이브러리입니다.
 
 아무튼 위에서 말했듯이 이미지를 **생성**할 수 있으니, 그렇게 전광판 이미지를 만들어 볼 것이다.
 
@@ -32,8 +32,6 @@ Pillow는 그런 PIL의 포크로, 사실상 PIL의 후속 라이브러리이다
 [눈누 둥근모꼴+Fixedsys 폰트](https://noonnu.cc/font_page/250)
 
 [바로 둥근모꼴+Fixedsys 폰트 다운하러 가기](https://cactus.tistory.com/193)
-
-안심하세요. 눈누 사이트에 연결된 공식 다운로드 페이지입니다.
 
 ## 코드 첨부
 [아무튼 코드](https://github.com/Rung2ne/Discord-Korail-electric-signboard-maker/blob/main/app.py)
